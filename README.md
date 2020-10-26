@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-niclasthall-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/niclasthall)
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://thall.se/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://wwww.thall.se/)
 
 ### Keybase proof
 
